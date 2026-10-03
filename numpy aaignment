@@ -1,0 +1,19 @@
+Numpy tasks
+
+- What NumPy is
+- How to create NumPy arrays
+- 1D and 2D arrays
+- `ndim`
+- `shape`
+- `size`
+- `dtype`
+- Indexing
+- Slicing
+- Vectorized operations
+- Mathematical functions
+- Sum, mean, min, and max
+- Conditions
+- Filtering
+- Reshape
+- Flatten
+- Random numbers
